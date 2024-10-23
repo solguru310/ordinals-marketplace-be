@@ -19,8 +19,8 @@ Configuration settings are sourced from a `.env` file and a config module. Ensur
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rizzolib/ordinal-marketplace.git 
-    cd ordinal-marketplace
+    git clone https://github.com/solguru310/ordinals-marketplace-be.git 
+    cd ordinals-marketplace-be
     ```
 
 2. Install the dependencies:
@@ -192,9 +192,13 @@ This project is licensed under the MIT License.
 
 
 ## Contact Info
-I have provided the project structure and rune token deploy, mint, tranfer code part in the README to keep security and the NDA sign. For further technical support and development inquiries, please contact me here.  
 
+If you need more technical support and development inquires, you can contact below.
 
+Telegram: [@dwlee918](https://t.me/@dwlee918)
 
-- **Telegram:** @rizz_cat
-- **Discord:** @rezzecup89
+X: [@derricklee918](https://x.com/derricklee918)
+
+Discord: [@solGuru](https://discordapp.com/users/352387576017190913)
+
+Thanks.
