@@ -197,7 +197,7 @@ If you need more technical support and development inquires, you can contact bel
 
 Telegram: [@dwlee918](https://t.me/@dwlee918)
 
-X: [@derricklee918](https://x.com/derricklee918)
+X: [@dwlee918](https://x.com/dwlee918)
 
 Discord: [@solGuru](https://discordapp.com/users/352387576017190913)
 
